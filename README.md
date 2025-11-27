@@ -13,12 +13,13 @@ This project includes **Home**, **Products**, **About**, and **Contact** pages w
 ---
 
 ### 🏠 Home Page  
-![Home Page](screenshots/home.png)
+![Home Page]()
 
 ---
 
 ### 🛍️ Products Page  
-![Products Page](screenshots/products.png)
+![Products Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/845ddf7c-8400-460d-b73d-8e2099448dae" />
+)
 
 ---
 
