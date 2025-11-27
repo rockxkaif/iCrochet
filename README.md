@@ -77,7 +77,25 @@ The design is simple, aesthetic, and crafted for small businesses selling handma
 
 ---
 
-# 📂 Project Structure (Example)
+# ---
+
+## 🔮 Future Enhancements
+
+- Backend integration for the Contact Form  
+- Admin panel to upload and manage products  
+- Product filters (price, category, color)  
+- Dark mode support  
+- Deployment on Vercel  
+
+---
+
+## 👨‍💻 Author
+
+**Kaif Akhtar**  
+Frontend Developer
+
+---
+
 
 
 
